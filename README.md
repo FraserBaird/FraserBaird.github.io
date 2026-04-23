@@ -34,4 +34,4 @@ In short, we are asking CRNS operators to provide us with their data during the 
 ## What We Can Offer
 In exchange for data-sharing, we will list all authors of an operator’s data as co-authors of the overall dataset and accompanying paper. In addition, we will host a virtual workshop near the end of 2026 focussing on the impact of space weather on CRNS signals for project participants.
 ### Next Steps
-If you have any questions please do not hesitate to contact Fraser (fraser.baird@surrey.ac.uk). If you would like to participate, please fill in [this form] (https://forms.office.com/e/TK2kV4sbjL) .
+If you have any questions please do not hesitate to contact Fraser (fraser.baird@surrey.ac.uk). If you would like to participate, please fill in [this form](https://forms.office.com/e/TK2kV4sbjL) .
