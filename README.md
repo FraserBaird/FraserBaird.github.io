@@ -1,6 +1,5 @@
 # Invitation to Participate in the Ground Level Enhancement in Hydrological Neutron Sensors: Coordination and Analysis Project 
-## On behalf of
-## Dr Fraser Baird, Prof Trenton Franz, and Prof Keith Ryden
+## On behalf of Dr Fraser Baird, Prof Trenton Franz, and Prof Keith Ryden
 
 ## Project Aims
 The Ground Level Enhancement in Hydrological Neutron Sensors: Coordination and Analysis  (GLEHNSCAN) Project has been established in response to the Ground Level Enhancement (GLE) which occurred on November 11th 2025. GLEs are space weather events and natural hazards; during one, ionising radiation levels in the atmosphere increase, occasionally considerably. The resulting radiation field can be a hazard for aviation in particular. 
